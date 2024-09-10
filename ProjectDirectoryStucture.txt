@@ -1,0 +1,5 @@
+real-time-stock-analysis/
+├── stock_analysis.py  # Main script
+├── README.md          # Project documentation
+├── requirements.txt   # Python dependencies
+└── .gitignore         # Ignored files for Git
